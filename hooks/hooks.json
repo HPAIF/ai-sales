@@ -1,0 +1,16 @@
+{
+  "description": "At session start, shows the AI sales member's memory for this project (deadlines and follow-ups, recent jobs, open deals by stage, overdue next steps, drafts awaiting approval, pending learnings) when an ai-team/sales workspace exists. Silent otherwise.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/session-context.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

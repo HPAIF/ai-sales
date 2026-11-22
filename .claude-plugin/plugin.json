@@ -1,0 +1,23 @@
+{
+  "name": "ai-sales",
+  "version": "0.1.0",
+  "description": "AI Team in-house sales assistant for founders doing founder-led B2B sales: target-account list from the shared ICP, privacy-respecting prospect research from public information, outreach drafts, a pipeline register, discovery-call prep and notes (SPIN, MEDDPICC), proposals and deal reviews. Never sends messages, contacts prospects or commits to prices, discounts or terms.",
+  "author": {
+    "name": "HaykazXP",
+    "url": "https://github.com/HaykazXP"
+  },
+  "homepage": "https://github.com/HPAIF/ai-sales",
+  "repository": "https://github.com/HPAIF/ai-sales",
+  "license": "MIT",
+  "keywords": [
+    "ai-team",
+    "sales",
+    "founder-led-sales",
+    "pipeline",
+    "crm",
+    "meddpicc",
+    "b2b",
+    "startup",
+    "founder"
+  ]
+}
