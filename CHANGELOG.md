@@ -4,6 +4,10 @@ All notable changes to the AI sales member. Versions follow semver: patch = fixe
 minor = new skill / workspace files, major = breaking workspace change.
 Entries that need a workspace change list a **Migration** step; `setup` (upgrade mode) applies it.
 
+## 0.1.1 — 2026-11-23
+- Rule "Be concise": shortest answer that keeps all important information (warnings, numbers,
+  dates, sources, decisions); long only when the content needs it.
+
 ## 0.1.0 — 2026-11-22
 - First public release — a basic version, to be specialised later.
 - Agent `sales`, rules (`RULES.md`), skills: setup, target-accounts, prospect-research,
