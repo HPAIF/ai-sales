@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-sales",
+  "description": "Install ai-sales directly from its own repository. For the whole AI Team use the HPAIF/ai-team catalog.",
+  "owner": {
+    "name": "HPAIF",
+    "url": "https://github.com/HPAIF"
+  },
+  "plugins": [
+    {
+      "name": "ai-sales",
+      "description": "AI Team in-house sales assistant for founders doing founder-led B2B sales: target-account list from the shared ICP, privacy-respecting prospect research from public information, outreach drafts, a pipeline register, discovery-call prep and notes (SPIN, MEDDPICC), proposals and deal reviews. Never sends messages, contacts prospects or commits to prices, discounts or terms.",
+      "source": "./",
+      "homepage": "https://github.com/HPAIF/ai-sales"
+    }
+  ]
+}
