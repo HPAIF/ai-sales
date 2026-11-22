@@ -19,8 +19,8 @@ plan of the steps both sides take to reach a decision and go live). Sources:
    or the product file. Anything else → `[PRICE — founder to decide]` / `[TERM — founder to
    decide]`, plus:
    - pricing structure, discounts, invoicing, currency, tax (VAT, withholding for foreign
-     customers) → exact question, asked directly (RULES: "Ask colleagues directly"), for the `accountant`;
-   - contract terms, liability, data processing, IP, governing law → exact question, asked directly (RULES: "Ask colleagues directly"), for the
+     customers) → exact question (as "For @member: …", RULES: "Talk to colleagues only where the founder sees it") for the `accountant`;
+   - contract terms, liability, data processing, IP, governing law → exact question (as "For @member: …", RULES: "Talk to colleagues only where the founder sees it") for the
      `lawyer` (and the lawyer's `contract-review` if the prospect sends paper).
 3. **Write** from `${CLAUDE_PLUGIN_ROOT}/templates/proposal.md` →
    `ai-team/sales/proposals/PP-XXXX-account-slug.md`, `status: draft`: their situation and goals
